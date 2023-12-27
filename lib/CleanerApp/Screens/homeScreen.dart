@@ -26,7 +26,7 @@ class HomeScreen extends StatelessWidget {
                     width: 5.w,
                   ),
                   textWidget(
-                    "Jerome Bell",
+                    "Jerome Dell",
                     fontSize: 19.sp,
                     fontWeight: FontWeight.w600,
                   ),
